@@ -9,7 +9,7 @@ __pycache__/
 .env.production
 
 # Vercel
-.vercel
+.vercel/
 
 # Media temporary
 media/
@@ -23,3 +23,5 @@ Thumbs.db
 
 # Zip
 *.zip
+
+staticfiles/
